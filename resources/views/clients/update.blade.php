@@ -1,5 +1,5 @@
 <h1>Cập nhật sản phẩm</h1>
-
+<h2>Sản phẩm</h2>
 <form method="POST" action="/products">
     @csrf
 
